@@ -37,4 +37,4 @@
   * RNN 모델에서 learning rate를 충분히 줄였을 때 성능이 향상됨(0.00001 ~ 0.0009)
 * 모델 앙상블 : RNN 모델을 총 13개 돌려 본 후 성능이 가장 우수한 10개 모델을 앙상블 함. 성능별로 순위를 메겨 순위 가중치를 각각 다르게 할당
 ---
-![]()
+![](https://github.com/Dasol-Choi/2022_K_water_AI_contest/blob/main/%EB%8C%80%ED%9A%8C%EA%B2%B0%EA%B3%BC.jpg)
