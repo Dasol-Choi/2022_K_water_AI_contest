@@ -1,4 +1,4 @@
-## :droplet: [2022 제2회 K-water AI 경진대회] 수돗물 수요예측 AI 경진대회
+## :droplet: [2022 제2회 K-water AI 경진대회] 수돗물 수요예측 AI 알고리즘 경진대회
 ### [2022-Task 2] 아포 : 경상북도 김천시 아포읍 (https://aifactory.space/competition/detail/2197)
 #### 📌 대회 주제 및 목표
 * 주제 : 지역별 상수원 수요 파악을 위한 배수지별 유량 적산차 예측
